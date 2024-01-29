@@ -6,7 +6,9 @@
 
 Установите и запустите Elasticsearch, после чего поменяйте параметр cluster_name на случайный.
 
-![Название скриншота 1](ссылка на скриншот 1)
+![elastic](https://github.com/smabramov/ELK/blob/8321a845d03f9049e9ee96b1fdb3ed608ddf2b4f/jpg/elastic.png)
+
+![elastic1](https://github.com/smabramov/ELK/blob/8321a845d03f9049e9ee96b1fdb3ed608ddf2b4f/jpg/elastic1.png)
 
 ---
 
@@ -14,7 +16,7 @@
 
 Установите и запустите Kibana.
 
-![Название скриншота 1](ссылка на скриншот 1)
+![kibana](https://github.com/smabramov/ELK/blob/8321a845d03f9049e9ee96b1fdb3ed608ddf2b4f/jpg/kibana.png)
 
 ---
 
@@ -22,7 +24,8 @@
 
 Установите и запустите Logstash и Nginx. С помощью Logstash отправьте access-лог Nginx в Elasticsearch.
 
-![Название скриншота 1](ссылка на скриншот 1)
+![logstash](https://github.com/smabramov/ELK/blob/8321a845d03f9049e9ee96b1fdb3ed608ddf2b4f/jpg/logstash.jpg)
+![logstash1](https://github.com/smabramov/ELK/blob/8321a845d03f9049e9ee96b1fdb3ed608ddf2b4f/jpg/logstash1.jpg)
 
 ---
 
@@ -30,6 +33,8 @@
 
 Установите и запустите Filebeat. Переключите поставку логов Nginx с Logstash на Filebeat.
 
-![Название скриншота 1](ссылка на скриншот 1)
+![nginx](https://github.com/smabramov/ELK/blob/8321a845d03f9049e9ee96b1fdb3ed608ddf2b4f/jpg/nginx.png)
+![nginx1](https://github.com/smabramov/ELK/blob/8321a845d03f9049e9ee96b1fdb3ed608ddf2b4f/jpg/nginx1.png)
+![nginx2](https://github.com/smabramov/ELK/blob/8321a845d03f9049e9ee96b1fdb3ed608ddf2b4f/jpg/nginx2.png)
 
 ---
